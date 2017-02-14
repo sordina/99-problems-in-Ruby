@@ -4,6 +4,11 @@ To set up run `bundle`.
 
 To start solving the problems run `make`.
 
+This is a modification of <a href="https://github.com/hcf/99-problems-in-Ruby">hcf/99-problems-in-Ruby</a>
+with the solutions removed, and the solution stubs renamed after the problem number.
+
+
+<h3>Original Readme</h3>
 
 <p>Learning functional programming using Ruby by solving <a
 href="https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/">the Ninety-Nine
